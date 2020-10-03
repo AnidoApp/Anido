@@ -1,2 +1,1 @@
-# Anido
-Anido Android App
+# WIP
